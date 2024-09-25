@@ -1,1 +1,1 @@
-# SA-AWS_Devops-July24.
+# SA-AWS_Devops-July24
